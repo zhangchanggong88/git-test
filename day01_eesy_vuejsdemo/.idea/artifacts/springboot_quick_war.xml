@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot_quick:war">
+    <output-path>$PROJECT_DIR$/../springboot_quick/target</output-path>
+    <root id="archive" name="springboot_quick-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot_quick:war exploded" />
+    </root>
+  </artifact>
+</component>
